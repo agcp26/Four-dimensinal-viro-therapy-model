@@ -1,1 +1,1 @@
-# Four-dimensinal-viro-therapy-model
+# Four-dimensional viro-therapy model
